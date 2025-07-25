@@ -2,7 +2,7 @@
 
 ## AI newbie
 
-New to AI, but deeply passionate about AI and development technologies. 
+New to AI, but deeply passionate about LLMs and agent simulation, recently focusing on visualization.
 
 I am going to be a first-year graduate student at HFUT this autumn.
 
