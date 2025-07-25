@@ -1,5 +1,5 @@
 <img align="right" src="https://count.getloli.com/get/@:Minori-ty?theme=rule34">
 
-## ai小白
+## AI newbie
 
-热爱ai和开发技术。hfut研0。
+New to AI, but deeply passionate about AI and development technologies. I am going to be a first-year graduate student at HFUT this autumn.
